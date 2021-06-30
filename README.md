@@ -20,12 +20,12 @@ Follow the Build and Install instructions from [osMUD](https://github.com/osmud/
 
 ## Android App
 
-[Source Code] (https://github.com/avraham-shalev/InternetChecker)
+[Source Code](https://github.com/avraham-shalev/InternetChecker)
 
 ## iOS App
 
-[Source Code] (https://github.com/danibachar/IPTracker)
+[Source Code](https://github.com/danibachar/IPTracker)
 
 ## PHP (MUDirect) Server Code:
 
-inside php dir.
+Inside php dir.
