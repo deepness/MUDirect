@@ -1,4 +1,4 @@
-#MUDirect:
+# MUDirect:
 
 This repository is a Proof-Of-Concept (POC) implementation of MUDirect.
 MUDirect is an idea to extend MUD to also support direct communication between the IoT device and the dynamically-chosen endpoint 
@@ -10,7 +10,8 @@ In order to deploy MUDirect, four main components are needed:
 3. PHP/HTTP Server (we used Apache).
 4. DNS Server (we used PowerDNS).
 
-##osMUD: 
+## osMUD:
+
 	https://github.com/osmud/osmud
 	Follow the Build and Install instructions:
 	1.Install OpenWrt on your Router.
@@ -19,11 +20,14 @@ In order to deploy MUDirect, four main components are needed:
 	https://github.com/avraham-shalev/my_osMUD
 	4. Build osMUD as they guide.
 
-##Android App:
+## Android App:
+
 	Available at https://github.com/avraham-shalev/InternetChecker
 
-##iOS App:
+## iOS App:
+
 	Available at https://github.com/danibachar/IPTracker
 
-##PHP (MUDirect) Server Code:
+## PHP (MUDirect) Server Code:
+
 	inside php dir.
