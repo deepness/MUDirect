@@ -15,7 +15,7 @@ In order to deploy MUDirect, four main components are needed:
 Follow the Build and Install instructions from [osMUD](https://github.com/osmud/osmud):
 1. Install OpenWrt on your Router.
 2. Create a docker Build image for osMUD code.
-3. Before building osMUD, replace the src dir contents with the files from [here](https://github.com/avraham-shalev/my_osMUD)
+3. Before building osMUD, replace the src dir contents with the files from [here](https://github.com/avraham-shalev/mudirect_osMUD)
 4. Build osMUD as they guide.
 
 ## Android App
